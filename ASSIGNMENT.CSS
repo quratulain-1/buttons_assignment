@@ -1,0 +1,99 @@
+* {
+    background-color: black;
+    padding: 5px;
+    font-weight: bold;
+    
+}
+
+#amazon {
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+   display: inline-block;
+}
+
+#started {
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+  display: inline-block;
+    justify-content: center;
+    align-items: center;
+    
+}
+#cart{
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+  display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+.ebay {
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.CONTAINER {
+    background-color: yellow;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+}
+
+.register {
+    background-color: green;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 9px;
+    width: 80px;
+    height: 40px;
+}
+
+.walmart {
+    background-color: brown;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 8px;
+    width: 120px;
+    height: 40px;
+    color: white;
+}
+
+.wall {
+    background-color: rgb(242, 241, 241);
+    text-align: center;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 9px;
+    width: 120px;
+    height: 40px;
+}
+
+.company {
+    background-color: rgb(56, 56, 221);
+    text-align: center;
+    font-size: 15px;
+    border-radius: 20px;
+    width: 230px;
+    height: 40px;
+    color: white;
+}
+
+.save {
+    background-color: rgb(242, 241, 241);
+    text-align: center;
+    font-size: 15px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+    color: blue;
+}
